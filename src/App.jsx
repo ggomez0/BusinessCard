@@ -4,8 +4,7 @@ function App() {
 
   return (
     
-    <div className="bg-[#C8E6CA] h-screen flex justify-center items-center">
-      <bds/>
+    <div className="bg-[#C8E6CA] h-screen flex justify-center items-center">      
       <div className='bg-white rounded-3xl shadow-xl h-3/4 w-3/4 relative' >      
         <div className='bg-green-600 max-w-xs  h-[68%] rounded-tl-3xl mb-3 text-white pl-5 pt-60 z-0'>
           <h2 className='font-bold'>✉ Email</h2>
