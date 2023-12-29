@@ -27,8 +27,12 @@ function App() {
         </div>
 
         <div className='absolute w-96 top-1/2 left-[39%] transform -translate-x-1/2 -translate-y-1/2'>
-      <img src='/src/assets/fotogaspar.jpg' className='w-full' alt="Gaspar's Photo"/>
-    </div>
+          <img src='/src/assets/fotogaspar.jpg' className='w-full' alt="Gaspar's Photo"/>
+        </div>
+        </div>
+        <div className='absolute left-[55%] max-w-96'>
+          <h1 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl"><span class="underline underline-offset-3 decoration-8 decoration-blue-400 dark:decoration-blue-600">Gaspar Gomez</span></h1>
+          <p class="text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum ipsum quam veniam nihil earum dicta molestias numquam magnam consequuntur dolor, temporibus quaerat rerum. In magni recusandae ipsum, autem pariatur blanditiis?</p>
         </div>
       </div>
   )
